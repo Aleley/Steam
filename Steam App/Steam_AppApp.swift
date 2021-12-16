@@ -11,7 +11,7 @@ import SwiftUI
 struct Steam_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainPage()
         }
     }
 }
